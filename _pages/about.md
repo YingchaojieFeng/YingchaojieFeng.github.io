@@ -33,13 +33,13 @@ My research interest includes visual analytics and natural language interaction.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2023</div><img src='images/promptmagician.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation](https://github.com/YingchaojieFeng/PromptMagician)
+[PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation](https://arxiv.org/abs/2307.09036)
 
 **Yingchaojie Feng**, Xingbo Wang, Kam Kwai Wong, Sijia Wang, Yuhong Lu, Minfeng Zhu, Baicheng Wang, Wei Chen
 
 IEEE VIS Conference 2023
 
-[Github](https://github.com/YingchaojieFeng/PromptMagician)
+[arXiv](https://arxiv.org/abs/2307.09036) \| [Github](https://github.com/YingchaojieFeng/PromptMagician)
 
 </div>
 </div>
@@ -75,18 +75,21 @@ Journal of Visualization, 2021
 </div>
 
 <!-- - ``ICML 2023`` [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- ``VI 2021`` [Visualizing large-scale high-dimensional data via hierarchical embedding of KNN graphs](https://doi.org/10.1016/j.visinf.2021.06.002), Haiyang Zhu, Minfeng Zhu, **Yingchaojie Feng**, Deng Cai, Yuanzhe Hu, Shilong Wu, Xiangyang Wu, Wei Chen
+- ``VI 2021`` [G6: A web-based library for graph visualization](https://doi.org/10.1016/j.visinf.2021.12.003), Yanyan Wang, Zhanning Bai, Zhifeng Lin, Xiaoqing Dong, **Yingchaojie Feng**, Jiacheng Pan, Wei Chen
+
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 📖 Educations
+<!-- # 📖 Educations
 - *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
+<!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->

@@ -26,7 +26,7 @@ My research interest includes visual analytics and natural language interaction.
 # 🔥 News
 - *2023.07*: &nbsp;🎉 Our paper "PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation" is finally accepted by IEEE VIS 2023!
 - *2023.01*: &nbsp;🎉 Our paper "XNLI: Explaining and Diagnosing NLI-based Visual Data Analysis" is finally accepted by IEEE TVCG, 2023!
-- *2021.07*: &nbsp;I presented "iPoet: interactive painting poetry creation with visual multimodal analysis" at ChinaVis 2021 in Wuhan.
+- *2021.07*: &nbsp;📢 I presented "iPoet: interactive painting poetry creation with visual multimodal analysis" at ChinaVis 2021 in Wuhan.
 
 # 📝 Publications
 
@@ -77,6 +77,7 @@ Journal of Visualization, 2021
 <!-- - ``ICML 2023`` [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 - ``VI 2021`` [Visualizing large-scale high-dimensional data via hierarchical embedding of KNN graphs](https://doi.org/10.1016/j.visinf.2021.06.002), Haiyang Zhu, Minfeng Zhu, **Yingchaojie Feng**, Deng Cai, Yuanzhe Hu, Shilong Wu, Xiangyang Wu, Wei Chen
 - ``VI 2021`` [G6: A web-based library for graph visualization](https://doi.org/10.1016/j.visinf.2021.12.003), Yanyan Wang, Zhanning Bai, Zhifeng Lin, Xiaoqing Dong, **Yingchaojie Feng**, Jiacheng Pan, Wei Chen
+- ``JCST 2023`` [Computational Approaches for Traditional Chinese Painting: From the "Six Principles of Painting" Perspective](https://ca4tcp.com/), Wei Zhang, Jianwei Zhang, Kam Kwai Wong, Yifang Wang, **Yingchaojie Feng**, Luwei Wang, Wei Chen
 
 
 <!-- # 🎖 Honors and Awards

@@ -24,6 +24,7 @@ My research interest includes visual analytics and natural language interaction.
 
 
 # 🔥 News
+- *2023.07*: &nbsp;📢 I presented "PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation" at [ChinaVis 2023](https://chinavis.org/2023/) in Chongqing.
 - *2023.07*: &nbsp;🎉 Our paper "PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation" is finally accepted by IEEE VIS 2023!
 - *2023.01*: &nbsp;🎉 Our paper "XNLI: Explaining and Diagnosing NLI-based Visual Data Analysis" is finally accepted by IEEE TVCG, 2023!
 - *2021.07*: &nbsp;📢 I presented "iPoet: interactive painting poetry creation with visual multimodal analysis" at ChinaVis 2021 in Wuhan.

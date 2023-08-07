@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, this is Yingchaojie Feng (封颖超杰). I am currently a Ph.D. candidate in Computer Technology at Zhejiang University under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in VAI group.
+Hello, this is Yingchaojie Feng (封颖超杰). I am currently a Ph.D. candidate in Computer Engineering at Zhejiang University under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in VAI group.
 Before that, I received my B.S. degree from Zhejiang University of Technology.
 
-My research interest includes visual analytics and natural language interaction.
+My research interests include **visual analytics** and **natural language interaction**. Specifically, I design and develop visual and interactive systems to facilitate the understanding and utility of NLP models for downstream tasks, including creative tasks (e.g., text-to-image, painting-to-poetry) and analytical tasks (e.g., NLI-based data analysis).
 
 
 # 🔥 News

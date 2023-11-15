@@ -40,7 +40,7 @@ My research interests include **visual analytics** and **natural language intera
 
 IEEE VIS Conference 2023
 
-[arXiv](https://arxiv.org/abs/2307.09036) \| [Github](https://github.com/YingchaojieFeng/PromptMagician)
+[arXiv](https://arxiv.org/abs/2307.09036) \| [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10296017) \| [Github](https://github.com/YingchaojieFeng/PromptMagician) \| [Video](https://youtu.be/QEqHAFhAWRI)
 
 </div>
 </div>
@@ -54,7 +54,7 @@ IEEE VIS Conference 2023
 
 IEEE Transactions on Visualization and Computer Graphics, 2023.
 
-[arXiv](https://arxiv.org/abs/2301.10385) \| [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10026499)
+[arXiv](https://arxiv.org/abs/2301.10385) \| [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10026499) \| [Video](https://youtu.be/zj1arPjEYI8)
 
 </div>
 </div>

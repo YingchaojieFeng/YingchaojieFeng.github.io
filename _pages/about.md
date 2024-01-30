@@ -40,7 +40,7 @@ My research interests include **visual analytics** and **natural language intera
 
 IEEE VIS Conference 2023
 
-[arXiv](https://arxiv.org/abs/2307.09036) \| [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10296017) \| [Github](https://github.com/YingchaojieFeng/PromptMagician) \| [Video](https://youtu.be/QEqHAFhAWRI)
+[IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10296017) \| [arXiv](https://arxiv.org/abs/2307.09036) \| [Github](https://github.com/YingchaojieFeng/PromptMagician) \| [Video](https://youtu.be/QEqHAFhAWRI)
 
 </div>
 </div>
@@ -54,7 +54,7 @@ IEEE VIS Conference 2023
 
 IEEE Transactions on Visualization and Computer Graphics, 2023.
 
-[arXiv](https://arxiv.org/abs/2301.10385) \| [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10026499) \| [Video](https://youtu.be/zj1arPjEYI8)
+[IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10026499) \| [arXiv](https://arxiv.org/abs/2301.10385) \| [Video](https://youtu.be/zj1arPjEYI8)
 
 </div>
 </div>
@@ -78,7 +78,8 @@ Journal of Visualization, 2021
 <!-- - ``ICML 2023`` [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 - ``VI 2021`` [Visualizing large-scale high-dimensional data via hierarchical embedding of KNN graphs](https://doi.org/10.1016/j.visinf.2021.06.002), Haiyang Zhu, Minfeng Zhu, **Yingchaojie Feng**, Deng Cai, Yuanzhe Hu, Shilong Wu, Xiangyang Wu, Wei Chen
 - ``VI 2021`` [G6: A web-based library for graph visualization](https://doi.org/10.1016/j.visinf.2021.12.003), Yanyan Wang, Zhanning Bai, Zhifeng Lin, Xiaoqing Dong, **Yingchaojie Feng**, Jiacheng Pan, Wei Chen
-- ``JCST 2023`` [Computational Approaches for Traditional Chinese Painting: From the "Six Principles of Painting" Perspective](https://ca4tcp.com/), Wei Zhang, Jianwei Zhang, Kam Kwai Wong, Yifang Wang, **Yingchaojie Feng**, Luwei Wang, Wei Chen
+- ``JCST 2023`` [Computational Approaches for Traditional Chinese Painting: From the "Six Principles of Painting" Perspective](https://arxiv.org/abs/2307.14227), Wei Zhang, Jianwei Zhang, Kam Kwai Wong, Yifang Wang, **Yingchaojie Feng**, Luwei Wang, Wei Chen
+- ``FITEE 2023`` [A visual analysis approach for data imputation via multi-party tabular data correlation strategies](https://link.springer.com/article/10.1631/FITEE.2300480), Haiyang Zhu, Dongmin Han, Jiacheng Pan, Yating Wei, **Yingchaojie Feng**, Luoxuan Weng, Ketian Mao, Yuankai Xing, Jianshu Lv, Qiucheng Wan, Wei Chen
 
 
 <!-- # 🎖 Honors and Awards

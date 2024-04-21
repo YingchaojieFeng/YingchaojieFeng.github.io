@@ -24,12 +24,41 @@ My research interests include **visual analytics** and **natural language intera
 
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉 Our paper about visual analysis of LLM-based Autonomous Systems ([AgentLens](https://arxiv.org/abs/2402.08995)) is accepted by IEEE TVCG, 2024!
 - *2023.07*: &nbsp;📢 I presented "PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation" at [ChinaVis 2023](https://chinavis.org/2023/) in Chongqing.
 - *2023.07*: &nbsp;🎉 Our paper "PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation" is finally accepted by IEEE VIS 2023!
 - *2023.01*: &nbsp;🎉 Our paper "XNLI: Explaining and Diagnosing NLI-based Visual Data Analysis" is finally accepted by IEEE TVCG, 2023!
 - *2021.07*: &nbsp;📢 I presented "iPoet: interactive painting poetry creation with visual multimodal analysis" at ChinaVis 2021 in Wuhan.
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/jailbreaklens.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models](https://arxiv.org/abs/2404.08793)
+
+**Yingchaojie Feng**, Zhizhang Chen, Zhining Kang, Sijia Wang, Minfeng Zhu, Wei Zhang, and Wei Chen
+
+arXiv Preprint, 2024
+
+[arXiv](https://arxiv.org/abs/2404.08793)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2024</div><img src='images/agentLens.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AgentLens: Visual Analysis for Agent Behaviors in LLM-based Autonomous Systems](https://arxiv.org/abs/2402.08995)
+
+Jiaying Lu, Bo Pan, Jieyi Chen, **Yingchaojie Feng**, Jingyuan Hu, Yuchen Peng, Wei Chen
+
+IEEE Transactions on Visualization and Computer Graphics, 2024.
+
+[arXiv](https://arxiv.org/abs/2402.08995)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VIS 2023</div><img src='images/promptmagician.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,6 +105,8 @@ Journal of Visualization, 2021
 </div>
 
 <!-- - ``ICML 2023`` [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
+- ``arXiv`` [InsightLens: Discovering and Exploring Insights from Conversational Contexts in Large-Language-Model-Powered Data Analysis](https://arxiv.org/abs/2404.01644), Luoxuan Weng, Xingbo Wang, Junyu Lu, **Yingchaojie Feng**, Yihan Liu, and Wei Chen
+- ``arXiv`` [AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration](https://arxiv.org/abs/2404.11943), Bo Pan, Jiaying Lu, Ke Wang, Li Zheng, Zhen Wen, **Yingchaojie Feng**, Minfeng Zhu, and Wei Chen
 - ``VI 2021`` [Visualizing large-scale high-dimensional data via hierarchical embedding of KNN graphs](https://doi.org/10.1016/j.visinf.2021.06.002), Haiyang Zhu, Minfeng Zhu, **Yingchaojie Feng**, Deng Cai, Yuanzhe Hu, Shilong Wu, Xiangyang Wu, Wei Chen
 - ``VI 2021`` [G6: A web-based library for graph visualization](https://doi.org/10.1016/j.visinf.2021.12.003), Yanyan Wang, Zhanning Bai, Zhifeng Lin, Xiaoqing Dong, **Yingchaojie Feng**, Jiacheng Pan, Wei Chen
 - ``JCST 2023`` [Computational Approaches for Traditional Chinese Painting: From the "Six Principles of Painting" Perspective](https://arxiv.org/abs/2307.14227), Wei Zhang, Jianwei Zhang, Kam Kwai Wong, Yifang Wang, **Yingchaojie Feng**, Luwei Wang, Wei Chen

@@ -24,13 +24,43 @@ My research interests include **visual analytics** and **natural language intera
 
 
 # 🔥 News
+- *2024.11*: &nbsp;🎉 Our paper about [LLM-powered business intelligence platform](https://luoxuanweng.site/pdfs/DataLab.pdf) is accepted by IEEE ICDE, 2025!
+- *2024.11*: &nbsp;🎉 Our paper about [insight exploration for LLM-powered data analysis](https://luoxuanweng.site/pdfs/InsightLens.pdf) is accepted by IEEE TVCG, (Proc. of PacificVis 2025)!
 - *2024.04*: &nbsp;🎉 Our paper about visual analysis of LLM-based Autonomous Systems ([AgentLens](https://ieeexplore.ieee.org/document/10520238)) is accepted by IEEE TVCG, 2024!
 - *2023.07*: &nbsp;📢 I presented "PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation" at [ChinaVis 2023](https://chinavis.org/2023/) in Chongqing.
 - *2023.07*: &nbsp;🎉 Our paper "PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation" is finally accepted by IEEE VIS 2023!
 - *2023.01*: &nbsp;🎉 Our paper "XNLI: Explaining and Diagnosing NLI-based Visual Data Analysis" is finally accepted by IEEE TVCG, 2023!
-- *2021.07*: &nbsp;📢 I presented "iPoet: interactive painting poetry creation with visual multimodal analysis" at ChinaVis 2021 in Wuhan.
+<!-- - *2021.07*: &nbsp;📢 I presented "iPoet: interactive painting poetry creation with visual multimodal analysis" at ChinaVis 2021 in Wuhan. -->
 
 # 📝 Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='images/DataLab.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DataLab: A Unified Platform for LLM-Powered Business Intelligence](https://luoxuanweng.site/pdfs/DataLab.pdf)
+
+Luoxuan Weng, Yinghao Tang, **Yingchaojie Feng**, Zhuo Chang, Peng Chen, Ruiqin Chen, Haozhe Feng, Chen Hou, Danqing Huang, Yang Li, Huaming Rao, Haonan Wang, Canshi Wei, Xiaofeng Yang, Yuhui Zhang, Yifeng Zheng, Xiuqi Huang, Minfeng Zhu, Yuxin Ma, Bin Cui, Wei Chen
+
+IEEE International Conference on Data Engineering, 2025
+
+[PDF](https://luoxuanweng.site/pdfs/DataLab.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/InsightLens.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[InsightLens: Augmenting LLM-Powered Data Analysis with Interactive Insight Management and Navigation](https://luoxuanweng.site/pdfs/InsightLens.pdf)
+
+Luoxuan Weng, Xingbo Wang, Junyu Lu, **Yingchaojie Feng**, Yihan Liu, Haozhe Feng, Danqing Huang, Wei Chen
+
+IEEE Transactions on Visualization and Computer Graphics (Proc. of PacificVis), 2025
+
+[PDF](https://luoxuanweng.site/pdfs/InsightLens.pdf) \| [Video](https://luoxuanweng.site/videos/InsightLens.mp4)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/jailbreaklens.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -105,7 +135,6 @@ Journal of Visualization, 2021
 </div>
 
 <!-- - ``ICML 2023`` [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-- ``arXiv`` [InsightLens: Discovering and Exploring Insights from Conversational Contexts in Large-Language-Model-Powered Data Analysis](https://arxiv.org/abs/2404.01644), Luoxuan Weng, Xingbo Wang, Junyu Lu, **Yingchaojie Feng**, Yihan Liu, Wei Chen
 - ``arXiv`` [AgentCoord: Visually Exploring Coordination Strategy for LLM-based Multi-Agent Collaboration](https://arxiv.org/abs/2404.11943), Bo Pan, Jiaying Lu, Ke Wang, Li Zheng, Zhen Wen, **Yingchaojie Feng**, Minfeng Zhu, Wei Chen
 - ``arXiv`` [CultiVerse: Towards Cross-Cultural Understanding for Paintings with Large Language Model](https://arxiv.org/abs/2405.00435), Wei Zhang, Wong Kam-Kwai, Biying Xu, Yiwen Ren, Yuhuai Li, Minfeng Zhu, **Yingchaojie Feng**, Wei Chen
 - ``JCST 2023`` [Computational Approaches for Traditional Chinese Painting: From the "Six Principles of Painting" Perspective](https://arxiv.org/abs/2307.14227), Wei Zhang, Jianwei Zhang, Kam Kwai Wong, Yifang Wang, **Yingchaojie Feng**, Luwei Wang, Wei Chen

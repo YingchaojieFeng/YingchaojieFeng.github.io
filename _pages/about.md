@@ -24,7 +24,7 @@ My research interests include **visual analytics** and **natural language intera
 
 
 # 🔥 News
-- *2024.11*: &nbsp;🎉 Our paper about [LLM-powered business intelligence platform](https://luoxuanweng.site/pdfs/DataLab.pdf) is accepted by IEEE ICDE, 2025!
+- *2025.03*: &nbsp;🎉 Our paper about [LLM-powered business intelligence platform](https://luoxuanweng.site/pdfs/DataLab.pdf) is accepted by IEEE ICDE, 2025!
 - *2024.11*: &nbsp;🎉 Our paper about [insight exploration for LLM-powered data analysis](https://luoxuanweng.site/pdfs/InsightLens.pdf) is accepted by IEEE TVCG, (Proc. of PacificVis 2025)!
 - *2024.04*: &nbsp;🎉 Our paper about visual analysis of LLM-based Autonomous Systems ([AgentLens](https://ieeexplore.ieee.org/document/10520238)) is accepted by IEEE TVCG, 2024!
 - *2023.07*: &nbsp;📢 I presented "PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation" at [ChinaVis 2023](https://chinavis.org/2023/) in Chongqing.

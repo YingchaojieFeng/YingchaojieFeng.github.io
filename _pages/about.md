@@ -17,15 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, this is Yingchaojie Feng (封颖超杰). I am currently a Ph.D. candidate in Computer Engineering at Zhejiang University under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in VAI group.
+Hello, this is Yingchaojie Feng (封颖超杰). I received my Ph.D. in Computer Engineering at Zhejiang University under the supervision of [Prof. Wei Chen](http://www.cad.zju.edu.cn/home/chenwei/) in VAI group.
 Before that, I received my B.S. degree from Zhejiang University of Technology.
 
 My research interests include **visual analytics** and **natural language interaction**. Specifically, I design and develop visual and interactive systems to facilitate the understanding and utility of NLP models for downstream tasks, including creative tasks (e.g., text-to-image, painting-to-poetry) and analytical tasks (e.g., NLI-based data analysis).
 
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉 Our paper about [LLM-powered business intelligence platform](https://luoxuanweng.site/pdfs/DataLab.pdf) is accepted by IEEE ICDE, 2025!
-- *2024.11*: &nbsp;🎉 Our paper about [insight exploration for LLM-powered data analysis](https://luoxuanweng.site/pdfs/InsightLens.pdf) is accepted by IEEE TVCG, (Proc. of PacificVis 2025)!
+- *2025.06*: &nbsp;🎉 [GSTansform](https://arxiv.org/abs/2505.24754) is selected for an oral presentation at ACL 2025!
+- *2025.05*: &nbsp;🎉 Our paper about visual analysis of jailbreak attacks ([JailbreakLens](https://ieeexplore.ieee.org/abstract/document/11020711)) is accepted by IEEE TVCG, 2025!
+- *2025.05*: &nbsp;🎉 Our paper about instruction-following text embedding ([GSTansform](https://arxiv.org/abs/2505.24754)) is accepted by ACL, 2025!
+- *2025.03*: &nbsp;🎉 Our paper about LLM-powered business intelligence platform ([DataLab](https://arxiv.org/abs/2412.02205)) is accepted by IEEE ICDE, 2025!
+- *2024.11*: &nbsp;🎉 Our paper about insight exploration for LLM-powered data analysis ([InsightLens](https://ieeexplore.ieee.org/abstract/document/10989518/)) is accepted by IEEE TVCG, (PacificVis 2025)!
 - *2024.04*: &nbsp;🎉 Our paper about visual analysis of LLM-based Autonomous Systems ([AgentLens](https://ieeexplore.ieee.org/document/10520238)) is accepted by IEEE TVCG, 2024!
 - *2023.07*: &nbsp;📢 I presented "PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation" at [ChinaVis 2023](https://chinavis.org/2023/) in Chongqing.
 - *2023.07*: &nbsp;🎉 Our paper "PromptMagician: Interactive Prompt Engineering for Text-to-Image Creation" is finally accepted by IEEE VIS 2023!
@@ -34,16 +37,44 @@ My research interests include **visual analytics** and **natural language intera
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2025</div><img src='images/GSTransform.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Don't Reinvent the Wheel: Efficient Instruction-Following Text Embedding based on Guided Space Transformation](https://arxiv.org/abs/2505.24754)
+
+**Yingchaojie Feng**, Yiqun Sun, Yandong Sun, Minfeng Zhu, Qiang Huang, Anthony K. H. Tung, Wei Chen
+
+ACL (Oral Presentation), 2025
+
+[arXiv](https://arxiv.org/abs/2505.24754)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/jailbreaklens.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models](https://ieeexplore.ieee.org/abstract/document/11020711)
+
+**Yingchaojie Feng**, Zhizhang Chen, Zhining Kang, Sijia Wang, Minfeng Zhu, Wei Zhang, and Wei Chen
+
+IEEE Transactions on Visualization and Computer Graphics, 2025
+
+[IEEEXplore](https://ieeexplore.ieee.org/abstract/document/11020711) \| [arXiv](https://arxiv.org/abs/2404.08793)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2025</div><img src='images/DataLab.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[DataLab: A Unified Platform for LLM-Powered Business Intelligence](https://luoxuanweng.site/pdfs/DataLab.pdf)
+[DataLab: A Unified Platform for LLM-Powered Business Intelligence](https://arxiv.org/abs/2412.02205)
 
-Luoxuan Weng, Yinghao Tang, **Yingchaojie Feng**, Zhuo Chang, Peng Chen, Ruiqin Chen, Haozhe Feng, Chen Hou, Danqing Huang, Yang Li, Huaming Rao, Haonan Wang, Canshi Wei, Xiaofeng Yang, Yuhui Zhang, Yifeng Zheng, Xiuqi Huang, Minfeng Zhu, Yuxin Ma, Bin Cui, Wei Chen
+Luoxuan Weng, Yinghao Tang, **Yingchaojie Feng**, Zhuo Chang, Ruiqin Chen, Haozhe Feng, Chen Hou, Danqing Huang, Yang Li, Huaming Rao, Haonan Wang, Canshi Wei, Xiaofeng Yang, Yuhui Zhang, Yifeng Zheng, Xiuqi Huang, Minfeng Zhu, Yuxin Ma, Bin Cui, Peng Chen, Wei Chen
 
 IEEE International Conference on Data Engineering, 2025
 
-[PDF](https://luoxuanweng.site/pdfs/DataLab.pdf)
+[arXiv](https://arxiv.org/abs/2412.02205)
 
 </div>
 </div>
@@ -51,27 +82,13 @@ IEEE International Conference on Data Engineering, 2025
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVCG 2025</div><img src='images/InsightLens.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[InsightLens: Augmenting LLM-Powered Data Analysis with Interactive Insight Management and Navigation](https://luoxuanweng.site/pdfs/InsightLens.pdf)
+[InsightLens: Augmenting LLM-Powered Data Analysis with Interactive Insight Management and Navigation](https://ieeexplore.ieee.org/abstract/document/10989518/)
 
 Luoxuan Weng, Xingbo Wang, Junyu Lu, **Yingchaojie Feng**, Yihan Liu, Haozhe Feng, Danqing Huang, Wei Chen
 
 IEEE Transactions on Visualization and Computer Graphics (Proc. of PacificVis), 2025
 
-[PDF](https://luoxuanweng.site/pdfs/InsightLens.pdf) \| [Video](https://luoxuanweng.site/videos/InsightLens.mp4)
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/jailbreaklens.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[JailbreakLens: Visual Analysis of Jailbreak Attacks Against Large Language Models](https://arxiv.org/abs/2404.08793)
-
-**Yingchaojie Feng**, Zhizhang Chen, Zhining Kang, Sijia Wang, Minfeng Zhu, Wei Zhang, and Wei Chen
-
-arXiv Preprint, 2024
-
-[arXiv](https://arxiv.org/abs/2404.08793)
+[IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10989518/) \| [arXiv](https://arxiv.org/abs/2404.01644) \| [Video](https://luoxuanweng.site/videos/InsightLens.mp4)
 
 </div>
 </div>
@@ -83,7 +100,7 @@ arXiv Preprint, 2024
 
 Jiaying Lu, Bo Pan, Jieyi Chen, **Yingchaojie Feng**, Jingyuan Hu, Yuchen Peng, Wei Chen
 
-IEEE Transactions on Visualization and Computer Graphics, 2024.
+IEEE Transactions on Visualization and Computer Graphics, 2024
 
 [IEEEXplore](https://ieeexplore.ieee.org/document/10520238) \| [arXiv](https://arxiv.org/abs/2402.08995) \| [Video](https://www.youtube.com/watch?v=gq0006YQx4M)
 
@@ -97,7 +114,7 @@ IEEE Transactions on Visualization and Computer Graphics, 2024.
 
 **Yingchaojie Feng**, Xingbo Wang, Kam Kwai Wong, Sijia Wang, Yuhong Lu, Minfeng Zhu, Baicheng Wang, Wei Chen
 
-IEEE VIS Conference 2023
+IEEE Transactions on Visualization and Computer Graphics (VIS 2023)
 
 [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10296017) \| [arXiv](https://arxiv.org/abs/2307.09036) \| [Github](https://github.com/YingchaojieFeng/PromptMagician) \| [Video](https://youtu.be/QEqHAFhAWRI)
 
@@ -111,7 +128,7 @@ IEEE VIS Conference 2023
 
 **Yingchaojie Feng**, Xingbo Wang, Bo Pan, Kam Kwai Wong, Yi Ren, Shi Liu, Zihan Yan, Yuxin Ma, Huamin Qu, Wei Chen
 
-IEEE Transactions on Visualization and Computer Graphics, 2023.
+IEEE Transactions on Visualization and Computer Graphics, 2023
 
 [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/10026499) \| [arXiv](https://arxiv.org/abs/2301.10385) \| [Video](https://youtu.be/zj1arPjEYI8)
 
